@@ -1,14 +1,13 @@
-# SPpoject
+# Departmental_Portal_Django
 
-Faculty can upload or delete documents related to respective courses and also add the courses.
-Students can download those documents.
+Front-End Technology - HTML, CSS, JavaScript, Bootstrap
+Backend Technology - PHP
+Database - MYSQL
 
+This website is developed for University. In this project faculties and students will be the user of this website. Main aim for developing this project is to provide a way of communication between the faculties and stuents. So here the faculties can share their knowlegde on various technology by sharing the various documents in this website which the students can easily access it and download it.
 
-django version 3.0.2
-
-python version 3.8.1
-
-required to install pillow 
-
+django version 3.0.2<br>
+python version 3.8.1<br>
+required to install pillow <br>
 >pip install pillow
 
